@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>http://www.annalisaconti.com/</loc>
+  <lastmod>2018-09-10T19:48:23+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.annalisaconti.com/index.html</loc>
+  <lastmod>2018-09-10T19:48:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.annalisaconti.com/about.html</loc>
+  <lastmod>2018-09-10T19:48:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.annalisaconti.com/nine.html</loc>
+  <lastmod>2018-09-10T19:48:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<url>
+  <loc>http://www.annalisaconti.com/book-club-annalisa-conti.html</loc>
+  <lastmod>2018-09-10T19:48:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.annalisaconti.com/w-series.html</loc>
+  <lastmod>2018-09-10T19:48:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.annalisaconti.com/other-writing.html</loc>
+  <lastmod>2018-09-10T19:48:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.annalisaconti.com/contacts.html</loc>
+  <lastmod>2018-09-10T19:48:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.annalisaconti.com/buy.html</loc>
+  <lastmod>2018-09-10T19:48:22+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.annalisaconti.com/on-writing-the-w-series.html</loc>
+  <lastmod>2018-09-10T19:48:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+<url>
+  <loc>http://www.annalisaconti.com/on-writing-the-female-protagonist.html</loc>
+  <lastmod>2018-09-10T19:48:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+</urlset>
